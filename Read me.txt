@@ -1,0 +1,24 @@
+
+Wiki report page link: https://wiki.khoury.northeastern.edu/display/~srikanthbonkuri/Project+1%3A+Real-time+filtering
+
+For project 1, you need to submit the following files: imgDisplay.cpp, vidDisplay.cpp, filters.cpp, filters.h, and read
+me.txt. Note,
+//readme.txt file
+
+Wiki report URL
+=> https://wiki.khoury.northeastern.edu/display/~srikanthbonkuri/Project+1%3A+Real-time+filtering
+
+What operating system and IDE you used to run and compile your code.
+=> Windows11 Operating System, Microsoft Visual Studio IDE
+
+Instructions for running your executables.
+1. for imgDisplay.cpp, copy the code and paste it into a file of your IDE and run it to display the results.
+2. for vidDisplay.cpp, same copy the code and paste it into a file of your IDE , this requires filters.cpp file as it is usi
+ng few functions
+from that file, now execute it and follow the instructions mentioned on assignment to get the desired results.
+Instructions for testing any extensions you completed.
+Acknowledgement
+1. I refernced many resources on google, youtube, discussed with TA to understand more and to unblock myself.
+2. I referd Opencv docs, soubhihadri blogs on image processing, went through textbooks and class recordings, etc.
+Notes:
+1. I don't had filters.h file because I declared filter.cpp functions in vidDisplay.cpp.
